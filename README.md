@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 Its <a href='lakshitsingh.vercel.app'>Lakshit</a>
+
+lorem inpusm dolor sit amet
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href='amazon.com'> 
+    <img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=' alt='LeetCode Icon'/>
+  </a>
+</div>
 
 <!--
 **NucleoFusion/NucleoFusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
