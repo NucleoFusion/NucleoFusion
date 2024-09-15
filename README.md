@@ -39,34 +39,47 @@
 <ul>
   <li>
     <a href='https://github.com/NucleoFusion/OnRemote'>OnRemote</a>
-    <p>
-      lorem ipsum dolor sit amet
-    </p>
+    <details>
+      <summary>Know More</summary>
+      <p>
+        OnRemote is an Inventory Management app built with Node.js, Express, React.js, and PostgreSQL. It simplifies and automates inventory tasks, with Node.js and Express managing backend operations and secure data transactions. The React.js frontend provides a user-friendly interface for real-time updates and analytics, while PostgreSQL ensures reliable data storage and retrieval. This full-stack solution offers a scalable approach to efficient inventory management.
+      </p>
+    </details>
   </li>
   <li>
     <a href='https://github.com/NucleoFusion/E-comm-new'>E-commerce App</a>
-    <p>
-      lorem ipsum dolor sit amet
-    </p>
+    <details>
+      <summary>Know More</summary>
+      <p>
+        We built a platform that connects transporters with contractors, enabling easy service listings, profile management, and direct communication for efficient project collaboration.
+      </p>
+    </details>
   </li>
   <li>
     <a href='https://github.com/NucleoFusion/Mobility-Future'>TranspoHub</a>
-    <p>
-      lorem ipsum dolor sit amet
-    </p>
+    <details>
+      <summary>Know More</summary>
+      <p>
+       ShortIt API is a backend service for URL shortening, built with Node.js, Express, and MongoDB. It converts long URLs into shorter links and manages their creation, storage, and redirection. The API is lightweight and scalable, suitable for integration into larger systems or as a standalone service. MongoDB provides flexible and efficient data management in a NoSQL environment.
+      </p>
+    </details>
   </li>
-  <li>
+  <!-- <li>
     <a href='https://github.com/NucleoFusion/footballAPI'>footballAPI</a>
     <p>
       lorem ipsum dolor sit amet
     </p>
-  </li>
+  </li> -->
   <li>
-    <a href='https://github.com/NucleoFusion/OnRemote'>ShortIt!</a>
-    <p>
-      lorem ipsum dolor sit amet
-    </p>
+    <a href='https://github.com/NucleoFusion/OnRemote'>ShortIt! API</a>
+    <details>
+      <summary>Know More</summary>
+      <p>
+       ShortIt API is a backend service for URL shortening, built with Node.js, Express, and MongoDB. It converts long URLs into shorter links and manages their creation, storage, and redirection. The API is lightweight and scalable, suitable for integration into larger systems or as a standalone service. MongoDB provides flexible and efficient data management in a NoSQL environment.
+      </p>
+    </details>
   </li>
+  <!--
   <li>
     <a href='https://github.com/NucleoFusion/OnRemote'>Lapis oAuth</a>
     <p>
@@ -74,6 +87,7 @@
     </p>
   </li>
 </ul>
+  -->
 <!--
 **NucleoFusion/NucleoFusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
