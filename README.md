@@ -79,6 +79,17 @@
       </p>
     </details>
   </li>
+</ul>
+<hr />
+<div>
+  <p align="center">
+    Get In Contact with Me!
+    <br />
+    Email: lakshitsinghproffesional@gmail.com
+    <br />
+    Alt Email: lakshit.singh.mail@gmail.com 
+  </p>
+</div>
   <!--
   <li>
     <a href='https://github.com/NucleoFusion/OnRemote'>Lapis oAuth</a>
