@@ -60,7 +60,7 @@
     <details>
       <summary>Know More</summary>
       <p>
-       ShortIt API is a backend service for URL shortening, built with Node.js, Express, and MongoDB. It converts long URLs into shorter links and manages their creation, storage, and redirection. The API is lightweight and scalable, suitable for integration into larger systems or as a standalone service. MongoDB provides flexible and efficient data management in a NoSQL environment.
+       We developed a freelance platform designed to connect transporters and contractors efficiently. The platform enables transporters to showcase their services and contractors to easily find and hire suitable transport solutions for their projects. Key features include profile management, service listings, and a streamlined communication system to facilitate contract negotiations. This platform aims to simplify the process of matching contractors with reliable transporters in the industry.
       </p>
     </details>
   </li>
@@ -76,6 +76,24 @@
       <summary>Know More</summary>
       <p>
        ShortIt API is a backend service for URL shortening, built with Node.js, Express, and MongoDB. It converts long URLs into shorter links and manages their creation, storage, and redirection. The API is lightweight and scalable, suitable for integration into larger systems or as a standalone service. MongoDB provides flexible and efficient data management in a NoSQL environment.
+      </p>
+    </details>
+  </li>
+  <li>
+    <a href='https://github.com/NucleoFusion/footballAPI'>Football API</a>
+    <details>
+      <summary>Know More</summary>
+      <p>
+       Built using Golang and MongoDB, FootballAPI offers detailed data on players, clubs, and stadiums. While it doesn't provide real-time updates, it serves as a reliable source for integrating structured football information into applications.
+      </p>
+    </details>
+  </li>
+  <li>
+    <a href='https://github.com/NucleoFusion/lapisoauth'>Lapis oAuth</a>
+    <details>
+      <summary>Know More</summary>
+      <p>
+       Built with Golang and React, Lapis oAuth is a secure authentication service designed to simplify user login and authorization. It enables easy integration of third-party logins, ensuring seamless access management and data security for both users and developers.
       </p>
     </details>
   </li>
