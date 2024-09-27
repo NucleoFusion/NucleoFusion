@@ -47,7 +47,7 @@
     </details>
   </li>
   <li>
-    <a href='https://github.com/NucleoFusion/E-comm-new'>E-commerce App</a>
+    <a href='https://github.com/NucleoFusion/E-commerce'>E-commerce App</a>
     <details>
       <summary>Know More</summary>
       <p>
