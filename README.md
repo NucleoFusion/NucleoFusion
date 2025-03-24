@@ -1,104 +1,70 @@
-<h1>Hi! 👋 This is <a href='https://lakshitsingh.vercel.app'>Lakshit</a> </h1>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/lakshit-singh-41583a287/" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href='https://leetcode.com/u/NucleoFusion/' style="text-decoration: none"> 
-    <img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=' alt='LeetCode Icon'/>
-  </a>
-  <a href='https://github.com/NucleoFusion' style="text-decoration: none"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-</div>
+# Hi! 👋 This is <a href='https://lakshitsingh.vercel.app'>Lakshit</a>
+
+<a href="https://www.linkedin.com/in/lakshit-singh-41583a287/" style="text-decoration: none">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href='https://leetcode.com/u/NucleoFusion/' style="text-decoration: none"> 
+  <img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=' alt='LeetCode Icon'/>
+</a>
+<a href='https://github.com/NucleoFusion' style="text-decoration: none"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
 <br />
-<p>
-  Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
-</p>
-<h2>What I Know</h2>
-<div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-  <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=PostgreSQL&logoColor=blue">
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=Go&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+
+Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
+
+## What I Know
+
+### Languages (in order of proficiency)
+
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+
+### Tools
+
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+### Databases
+
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+### Frameworks / Tools
+
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+
+### Devops
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+
 <br />
-<h2>My Projects</h2>
-<ul>
-  <li>
-    <a href='https://github.com/NucleoFusion/OnRemote'>OnRemote</a>
-    <details>
-      <summary>Know More</summary>
-      <p>
-        OnRemote is an Inventory Management app built with Node.js, Express, React.js, and PostgreSQL. It simplifies and automates inventory tasks, with Node.js and Express managing backend operations and secure data transactions. The React.js frontend provides a user-friendly interface for real-time updates and analytics, while PostgreSQL ensures reliable data storage and retrieval. This full-stack solution offers a scalable approach to efficient inventory management.
-      </p>
-    </details>
-  </li>
-  <li>
-    <a href='https://github.com/NucleoFusion/E-commerce'>E-commerce App</a>
-    <details>
-      <summary>Know More</summary>
-      <p>
-        We built a platform that connects transporters with contractors, enabling easy service listings, profile management, and direct communication for efficient project collaboration.
-      </p>
-    </details>
-  </li>
-  <li>
-    <a href='https://github.com/NucleoFusion/Mobility-Future'>TranspoHub</a>
-    <details>
-      <summary>Know More</summary>
-      <p>
-       We developed a freelance platform designed to connect transporters and contractors efficiently. The platform enables transporters to showcase their services and contractors to easily find and hire suitable transport solutions for their projects. Key features include profile management, service listings, and a streamlined communication system to facilitate contract negotiations. This platform aims to simplify the process of matching contractors with reliable transporters in the industry.
-      </p>
-    </details>
-  </li>
-  <!-- <li>
-    <a href='https://github.com/NucleoFusion/footballAPI'>footballAPI</a>
-    <p>
-      lorem ipsum dolor sit amet
-    </p>
-  </li> -->
-  <li>
-    <a href='https://github.com/NucleoFusion/OnRemote'>ShortIt! API</a>
-    <details>
-      <summary>Know More</summary>
-      <p>
-       ShortIt API is a backend service for URL shortening, built with Node.js, Express, and MongoDB. It converts long URLs into shorter links and manages their creation, storage, and redirection. The API is lightweight and scalable, suitable for integration into larger systems or as a standalone service. MongoDB provides flexible and efficient data management in a NoSQL environment.
-      </p>
-    </details>
-  </li>
-  <li>
-    <a href='https://github.com/NucleoFusion/footballAPI'>Football API</a>
-    <details>
-      <summary>Know More</summary>
-      <p>
-       Built using Golang and MongoDB, FootballAPI offers detailed data on players, clubs, and stadiums. While it doesn't provide real-time updates, it serves as a reliable source for integrating structured football information into applications.
-      </p>
-    </details>
-  </li>
-  <li>
-    <a href='https://github.com/NucleoFusion/lapisoauth'>Lapis oAuth</a>
-    <details>
-      <summary>Know More</summary>
-      <p>
-       Built with Golang and React, Lapis oAuth is a secure authentication service designed to simplify user login and authorization. It enables easy integration of third-party logins, ensuring seamless access management and data security for both users and developers.
-      </p>
-    </details>
-  </li>
-</ul>
-<hr />
+
+![NucleoFusion's Stats](https://github-readme-stats.vercel.app/api?username=NucleoFusion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br />
+![NucleoFusion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NucleoFusion&theme=vue-dark&hide_border=true)
+<br />
+![NucleoFusion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NucleoFusion&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <div>
   <p align="center">
     Get In Contact with Me!
