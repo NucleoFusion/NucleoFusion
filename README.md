@@ -15,7 +15,7 @@ Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
 
 ## What I Know
 
-### Languages (in order of proficiency)
+### Languages
 
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
