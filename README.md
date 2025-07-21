@@ -59,11 +59,11 @@ Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
 
 <br />
 
-![NucleoFusion's Stats](https://github-readme-stats.vercel.app/api?username=NucleoFusion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NucleoFusion's Stats](https://github-readme-stats.vercel.app/api?username=NucleoFusion&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&icon_color=fffffff8&border_color=27272a)
 <br />
-![NucleoFusion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NucleoFusion&theme=vue-dark&hide_border=true)
+![NucleoFusion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NucleoFusion&theme=dark&background=0d0d0d&ring=fffffff8&currStreakLabel=ffffff&fire=ffffff)
 <br />
-![NucleoFusion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NucleoFusion&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![NucleoFusion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NucleoFusion&exclude_repo=dotflyes&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&icon_color=fffffff8&border_color=27272a)
 
 <div>
   <p align="center">
