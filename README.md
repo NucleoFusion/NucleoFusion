@@ -59,11 +59,17 @@ Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
 
 <br />
 
+## Stats
+
 ![NucleoFusion's Stats](https://github-readme-stats.vercel.app/api?username=NucleoFusion&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&icon_color=fffffff8&border_color=27272a)
 <br />
 ![NucleoFusion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NucleoFusion&theme=dark&background=0d0d0d&ring=fffffff8&currStreakLabel=ffffff&fire=ffffff)
 <br />
 ![NucleoFusion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NucleoFusion&exclude_repo=dotflyes&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&icon_color=fffffff8&border_color=27272a)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NucleoFusion&theme=onedark)]
 
 <div>
   <p align="center">
