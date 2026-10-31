@@ -1,4 +1,4 @@
-# Hi! 👋 This is <a href='https://lakshitsingh.vercel.app'>Lakshit</a>
+# Hi! 👋 This is Nucleo Fusion
 
 <a href="https://www.linkedin.com/in/lakshit-singh-41583a287/" style="text-decoration: none">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -70,15 +70,7 @@ Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NucleoFusion&theme=onedark)]
 
-<div>
-  <p align="center">
-    Get In Contact with Me!
-    <br />
-    Email: lakshitsinghproffesional@gmail.com
-    <br />
-    Alt Email: lakshit.singh.mail@gmail.com 
-  </p>
-</div>
+
   <!--
   <li>
     <a href='https://github.com/NucleoFusion/OnRemote'>Lapis oAuth</a>
