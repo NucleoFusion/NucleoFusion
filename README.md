@@ -1,16 +1,5 @@
 # Hi! 👋 This is Nucleo Fusion
 
-<a href="https://www.linkedin.com/in/lakshit-singh-41583a287/" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href='https://leetcode.com/u/NucleoFusion/' style="text-decoration: none"> 
-  <img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=' alt='LeetCode Icon'/>
-</a>
-<a href='https://github.com/NucleoFusion' style="text-decoration: none"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white">
-</a>
-<br />
-
 ## What I Know
 
 ### Languages
