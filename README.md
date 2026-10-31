@@ -11,8 +11,6 @@
 </a>
 <br />
 
-Hi! My name is Lakshit Singh,<br /> A Backend Developer from Delhi, India.
-
 ## What I Know
 
 ### Languages
